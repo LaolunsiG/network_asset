@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "04948bd20150e59f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddf6519ea2a97293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9258dc5182d65939",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a0f76a5c09cc8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "13af19bdbb7157e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e0fdc9a89ee73b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fbd8119a4ac6fece",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "72eb5bea12ece851",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00c7371303827d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "865860eebbf34957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8233612a44d2f466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "97ea73553ad7d01a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "3bbb2a416bdc7de5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7da46c77c14d08fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9258dc5182d65939",
+  "lastOpenFiles": [
+    "软件整理/游戏/【Android】游戏整理.md",
+    "README.md",
+    "软件整理/游戏/~$【多端】50000GB游戏合集.xlsx",
+    "软件整理/游戏/【多端】50000GB游戏合集.xlsx",
+    "软件整理/游戏/50000GB游戏合集.xlsx",
+    "软件整理/README.md",
+    "教程整理/科学上网教程整理.md",
+    "教程整理/特殊网站教程整理.md",
+    "网站整理/最新网站集合（新年礼物）By 阿.md",
+    "网站整理/README.md",
+    "教程整理/百度秒传教程/度盘秒传教程-手机端-基于火狐-3分钟附工具.rar",
+    "教程整理/百度秒传教程/度盘秒传教程-手机端-5分钟-另外两种方法.rar",
+    "教程整理/百度秒传教程",
+    "教程整理/新建文件夹",
+    "教程整理/度盘秒传教程-手机端-基于火狐-3分钟附工具.rar",
+    "教程整理/度盘秒传教程-手机端-5分钟-另外两种方法.rar",
+    "00_综合资源整理/【百度秒传】公hao所有未炸汁源下载-（注意！使用请参照群文件秒传使用教程）.txt",
+    "电子书整理/README.md",
+    "软件整理/游戏/【Windows】游戏整理.md",
+    "软件整理/Windows/游戏整理.md",
+    "软件整理/游戏/游戏整理.md"
+  ]
+}
