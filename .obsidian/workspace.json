@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b7895ff7031d0c",
+        "id": "e40ec2daa01fead5",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b73a0805ed22a6",
+            "id": "e4338c59e7e6a534",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.MD",
-                "bFile": "README.MD",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "视频整理/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README.MD"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -137,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "视频整理/README.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -170,21 +171,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41e0fdc9a89ee73b",
+  "active": "e4338c59e7e6a534",
   "lastOpenFiles": [
-    "新建文本文档.txt",
-    "视频整理/README.md",
     "图集整理/README.md",
-    "README.MD",
-    "网站整理/最新网站集合（新年礼物）By 阿.md",
     "网站整理/README.md",
+    "README.MD",
+    "视频整理/README.md",
+    "网站整理/最新网站集合（新年礼物）By 阿.md",
+    "00_综合资源整理/README.md",
+    "电子书整理/【论文】/基于想象力的萝莉足部气味与口感研究——以FAVORITE部分女主为例(2).pdf",
+    "电子书整理/【数据】/附录2：经过筛选的数据.pdf",
+    "电子书整理/【数据】/附录1：原始数据.pdf",
     "电子书整理/README.md",
     "教程整理/科学上网教程整理.md",
     "教程整理/特殊网站教程整理.md",
-    "软件整理/README.md",
     "软件整理/游戏/多端/README.md",
     "软件整理/游戏/Android/README.md",
     "软件整理/游戏/Windows/README.md",
+    "软件整理/README.md",
+    "新建文本文档.txt",
     "README.md",
     "软件整理/游戏/Windows",
     "软件整理/游戏/【Android】游戏整理.md",
@@ -193,10 +198,6 @@
     "软件整理/游戏/50000GB游戏合集.xlsx",
     "教程整理/百度秒传教程/度盘秒传教程-手机端-基于火狐-3分钟附工具.rar",
     "教程整理/百度秒传教程/度盘秒传教程-手机端-5分钟-另外两种方法.rar",
-    "教程整理/百度秒传教程",
-    "教程整理/新建文件夹",
-    "教程整理/度盘秒传教程-手机端-基于火狐-3分钟附工具.rar",
-    "教程整理/度盘秒传教程-手机端-5分钟-另外两种方法.rar",
     "软件整理/Windows/游戏整理.md",
     "软件整理/游戏/游戏整理.md"
   ]

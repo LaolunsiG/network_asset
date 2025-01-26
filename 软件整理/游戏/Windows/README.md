@@ -1,7 +1,10 @@
+---
+author: XiaoE
+date: 2025-01-25 18:31
+updated: 2025-01-26 23:50
+modified by: XiaoE
+---
 # 【Windows】游戏整理
-> data: 20250125
-
-> updata: 20250125
 - 有些链接可能失效，如果有机会在补
 
 ## 其他
