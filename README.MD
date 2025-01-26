@@ -30,4 +30,4 @@
 
 | 作者| 项目 | 介绍 |
 | -- | -- | -- |
-| huijia | https://github.com/guosanli/huijia | 回家的路  |
+| guosanli | https://github.com/guosanli/huijia | 回家的路  |
