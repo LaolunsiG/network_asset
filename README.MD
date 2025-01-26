@@ -1,7 +1,10 @@
+---
+author: XiaoE
+date: 2025-01-25 16:44
+updated: 2025-01-26 23:17
+modified by: XiaoE
+---
 # network_asset
-> data: 20250125
-
-> updata: 20250125
 - 整理网友的网络资产，帮助后来的新人快速寻找资源。
 - 非本人存储资源，只是收集各个网友分享的资源
 
