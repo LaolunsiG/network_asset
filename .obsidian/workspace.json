@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频整理/README.md",
+                "file": "软件整理/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频整理/README.md"
+                "file": "00_综合资源整理/README.md"
               },
               "icon": "lucide-list",
               "title": "README 的大纲"
@@ -171,14 +171,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4338c59e7e6a534",
+  "active": "41e0fdc9a89ee73b",
   "lastOpenFiles": [
-    "图集整理/README.md",
-    "网站整理/README.md",
-    "README.MD",
     "视频整理/README.md",
     "网站整理/最新网站集合（新年礼物）By 阿.md",
+    "网站整理/README.md",
+    "README.MD",
     "00_综合资源整理/README.md",
+    "图集整理/README.md",
     "电子书整理/【论文】/基于想象力的萝莉足部气味与口感研究——以FAVORITE部分女主为例(2).pdf",
     "电子书整理/【数据】/附录2：经过筛选的数据.pdf",
     "电子书整理/【数据】/附录1：原始数据.pdf",
